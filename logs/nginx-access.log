@@ -1,0 +1,6 @@
+172.17.0.1 - - [10/Oct/2018:07:26:23 +0000] "GET / HTTP/1.1" 200 24178 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15"
+172.17.0.1 - - [10/Oct/2018:07:26:23 +0000] "GET /favicon.ico HTTP/1.1" 200 24154 "http://0.0.0.0/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15"
+172.17.0.1 - - [10/Oct/2018:07:27:07 +0000] "GET / HTTP/1.1" 200 24176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15"
+172.17.0.1 - - [10/Oct/2018:07:28:01 +0000] "GET / HTTP/1.1" 200 24191 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15"
+172.17.0.1 - - [10/Oct/2018:08:08:04 +0000] "GET / HTTP/1.1" 200 148 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15"
+172.17.0.1 - - [10/Oct/2018:08:13:28 +0000] "GET / HTTP/1.1" 200 24201 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15"
